@@ -1,4 +1,5 @@
 {
+  "items": {
 		"partnerId": 123,
 		"itemsResponse": [
 			{
@@ -47,3 +48,4 @@
 			}
 		]
 	}
+}
