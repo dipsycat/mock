@@ -1,51 +1,26 @@
 {
-  "items": {
-		"partnerId": 123,
-		"itemsResponse": [
-			{
-				"id": "1", 
-				"categoryId": 10, 
-				"name": "Товар 1", 
-				"description": "Описание 1", 
-				"price": 123, 
-				"isWeight": false, 
-				"barcodes": [
-					{
-						"type": "HE", 
-						"code": "4600494509179", 
-						"uom": "KAR", 
-						"main": true
-					}
-				], 
-				"images": [
-					{
-						"Hash": "sadsad", 
-						"url": "https://partner.ru/new1.jpg"
-					}
-				]
-			},
-			{
-				"id": "2", 
-				"categoryId": 11, 
-				"name": "Товар 2", 
-				"description": "Описание 2", 
-				"price": 234, 
-				"isWeight": false, 
-				"barcodes": [
-					{
-						"type": "HE", 
-						"code": "4600494505683", 
-						"uom": "ST", 
-						"main": false
-					}
-				], 
-				"images": [
-					{
-						"Hash": "sadsad", 
-						"url": "https://partner.ru/new2.jpg"
-					}
-				]
-			}
-		]
-	}
+  "items": [
+    {
+      "id": "2",
+      "categoryId": 11,
+      "name": "Товар 2",
+      "description": "Описание 2",
+      "price": 234,
+      "isWeight": false,
+      "barcodes": [
+        {
+          "type": "ty",
+          "code": "code",
+          "uom": "uo1",
+          "main": false
+        }
+      ],
+      "images": [
+        {
+          "Hash": "sadsad",
+          "url": "https://"
+        }
+      ]
+    }
+  ]
 }
